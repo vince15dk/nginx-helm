@@ -3,7 +3,16 @@ entries:
   nginx-helm:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-05T10:09:15.927042373+09:00"
+    created: "2019-09-05T10:13:43.048901028+09:00"
+    description: A Helm chart for Kubernetes with alpine version "1.17" and "5" replicas
+    digest: ebf93db5b9534027b5af1de5231966781ecc27125d8614c10c2b22da7d3832b8
+    name: nginx-helm
+    urls:
+    - nginx-helm-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-09-05T10:13:43.047715493+09:00"
     description: A Helm chart for Kubernetes with alpine version "1.17" and "2" replicas
     digest: fb7e72014a2078bb5ebb74f8207ebc9409826e4bc5743c96cef3b79e9cd55ca4
     name: nginx-helm
@@ -12,7 +21,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-05T10:09:15.926820345+09:00"
+    created: "2019-09-05T10:13:43.047414695+09:00"
     description: A Helm chart for Kubernetes with alpine version 1.17.3-alpine
     digest: f7ce2b042dee3a6ed7e60bc530b471c35d70827fc5547adb6ed794981f31429a
     name: nginx-helm
@@ -21,11 +30,11 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-05T10:09:15.926558787+09:00"
+    created: "2019-09-05T10:13:43.047040097+09:00"
     description: A Helm chart for Kubernetes
     digest: da64a5a3c24fc2e2f9659916dad3f119e86871e81b327e8662d4c0c2aa15557d
     name: nginx-helm
     urls:
     - nginx-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2019-09-05T10:09:15.926124781+09:00"
+generated: "2019-09-05T10:13:43.046294578+09:00"
